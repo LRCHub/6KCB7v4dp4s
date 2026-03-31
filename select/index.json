@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "六本木心中",
+  "base_artist": "アン・ルイス",
+  "createdAt": "2026-03-31T11:38:16.777844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "アン・ルイス",
+      "has_synced": true,
+      "path": "select/01_六本木心中_アン・ルイス.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/02_六本木心中_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "相川七瀬",
+      "has_synced": true,
+      "path": "select/03_六本木心中_相川七瀬.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_六本木心中_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "アン・ルイス",
+      "has_synced": true,
+      "path": "select/05_六本木心中_アン・ルイス.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "六本木心中 (Original Version)",
+      "artist": "アン・ルイス",
+      "has_synced": true,
+      "path": "select/06_六本木心中_(Original_Version)_アン・ルイス.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "松本孝弘,LiSA",
+      "has_synced": true,
+      "path": "select/07_六本木心中_松本孝弘,LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "松本孝弘,LiSA",
+      "has_synced": false,
+      "path": "select/08_六本木心中_松本孝弘,LiSA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/09_六本木心中_SCANDAL.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "松本孝弘",
+      "has_synced": true,
+      "path": "select/10_六本木心中_松本孝弘.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "Nanase Aikawa",
+      "has_synced": true,
+      "path": "select/11_六本木心中_Nanase_Aikawa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "アン・ルイス",
+      "has_synced": true,
+      "path": "select/12_六本木心中_アン・ルイス.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "六本木心中",
+      "artist": "松本孝弘",
+      "has_synced": false,
+      "path": "select/13_六本木心中_松本孝弘.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "六本木心中",
+      "artist": "アン・ルイス",
+      "has_synced": false,
+      "path": "select/pl_01_六本木心中_アン・ルイス.txt"
+    }
+  ]
+}
